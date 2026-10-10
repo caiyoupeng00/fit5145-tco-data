@@ -1,0 +1,2 @@
+control_id,maintenance_60000_cny,maintenance_low_cny,maintenance_high_cny,rationale,source_basis
+uniform_maintenance_control,6000,3000,9000,"Use one controlled 60,000-km maintenance amount for all vehicles until comparable exact-trim schedules and quotes are collected; this prevents weak platform estimates from determining the ranking.","Analytical assumption informed by the existing provisional 4,367-7,981 CNY observations; test 3,000-9,000 CNY as sensitivity, not as observed fact."

@@ -1,0 +1,4 @@
+scenario_id,scenario_label,annual_km,ownership_years,home_charging_share,phev_electric_share,erev_electric_share,home_electricity_cny_kwh,public_electricity_cny_kwh,petrol_92_cny_l,petrol_95_cny_l,residual_rate,mandatory_fees_cny
+urban_low_mileage,Urban low mileage / no home charging,8000,3,0,0.25,0.35,0.5103,1.5,7.78,8.29,0.55,500
+typical_family,Typical family / home charging,15000,5,0.8,0.70,0.80,0.5103,1.5,7.78,8.29,0.40,500
+high_mileage,High mileage / home charging,25000,5,0.8,0.75,0.85,0.5103,1.5,7.78,8.29,0.40,500
